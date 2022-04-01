@@ -1,0 +1,1 @@
+Readme for Bash permissions
