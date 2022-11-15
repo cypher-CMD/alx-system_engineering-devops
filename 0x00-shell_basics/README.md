@@ -1,2 +1,1 @@
-Display the current working directory
-Calls interpreter,run pwd to show working directory
+This dir contains the files for the required tasks
